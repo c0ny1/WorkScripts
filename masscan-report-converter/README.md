@@ -12,7 +12,7 @@ masscan.exe -p21,22,23,80,7001,5900 10.0.0.0/8 --rate=100000 -oX scan_result.xml
 masscan-report-converter.py -i scan_result.xml -o scan_result.xls
 ```
 
-最后效果如下：
+最终效果如下：
 
 
 ![图1-脚本转换后的报告](convert_result.png)
