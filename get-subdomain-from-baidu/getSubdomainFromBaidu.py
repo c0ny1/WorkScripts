@@ -5,6 +5,7 @@ import urllib2
 
 '''
 author: c0ny1
+github: https://github.com/c0ny1/WorkScripts/tree/master/get-subdomain-from-baidu
 date: 2018-10-16 23:00
 description: 基于百度云观测接口获取子域名
 '''
