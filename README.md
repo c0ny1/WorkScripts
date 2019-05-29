@@ -6,3 +6,4 @@
 |2|[masscan-report-converter](masscan-report-converter/)|将masscan报告转为xls格式|
 |3|[get-subdomain-from-baidu](get-subdomain-from-baidu/)|基于百度云观测接口获取子域名|
 |4|[shadowProxy-update-proxy-list](shadowProxy-update-proxy-list/)|借助[proxylist](https://github.com/fate0/proxylist)项目给[shadowProxy](https://github.com/odboy/shadowProxy)项目更新代理ip列表的脚本|
+|5|[生成利用随机异或绕waf的webshell脚本](get-subdomain-from-baidu/)|利用随机异或绕waf|
